@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 10px;
+  width: 5%;
+}
+
+h3 {
+  text-decoration: underline;
+}
